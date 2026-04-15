@@ -34,13 +34,10 @@ To identify patterns among countries using indicators like GDP, population, heal
 ## 📸 Results
 
 ### Clustering Output
+![Cluster Plot](images:cluster_plot.png)
 
-![Cluster Plot](images/cluster_plot.png)
-
-### Elbow Method
-
-![Elbow Method](images/elbow_method.png)
-
+### Correlation Heatmap
+![Heatmap](images:correlation_heatmap.png)
 ## 🚀 How to Run
 
 1. Install dependencies
