@@ -34,11 +34,11 @@ To identify patterns among countries using indicators like GDP, population, heal
 
 ### Clustering Output
 
-![Cluster Plot](images\:cluster_plot.png.jpeg)
+![Cluster Plot](images:cluster_plot.png)
 
 ### Correlation Heatmap
 
-![Heatmap](images\:correlation_heatmap.png.jpeg)
+![Heatmap](images:correlation_heatmap.png)
 
 ## 🚀 How to Run
 
