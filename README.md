@@ -32,6 +32,16 @@ This project uses **K-Means Clustering** to analyze and group countries based on
 ---
 
 ## 📁 Project Structure
+
+World-Development-Indicators-Clustering/
+│
+├── wdi_clustering_analysis.ipynb   # Main analysis: EDA, preprocessing, clustering
+├── Deployment_file.ipynb           # Streamlit app deployment notebook
+├── wdi_dataset.xlsx                # Dataset (World Bank WDI)
+├── cluster_plot.png                # Cluster visualization output
+├── correlation_heatmap.png         # Feature correlation heatmap
+├── requirements.txt                # Python dependencies
+└── README.md
 ---
 
 ## 📊 Methodology
