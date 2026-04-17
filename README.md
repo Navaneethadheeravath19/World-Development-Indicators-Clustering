@@ -33,17 +33,16 @@ This project uses **K-Means Clustering** to analyze and group countries based on
 
 ## 📁 Project Structure
 
-```
-World-Development-Indicators-Clustering/
-│
-├── wdi_clustering_analysis.ipynb
-├── Deployment_file.ipynb
-├── wdi_dataset.xlsx
-├── cluster_plot.png
-├── correlation_heatmap.png
-├── requirements.txt
-└── README.md
-```
+    World-Development-Indicators-Clustering/
+    │
+    ├── wdi_clustering_analysis.ipynb   # Main analysis
+    ├── Deployment_file.ipynb           # Streamlit deployment
+    ├── wdi_dataset.xlsx                # Dataset
+    ├── cluster_plot.png                # Cluster visualization
+    ├── correlation_heatmap.png         # Heatmap
+    ├── requirements.txt                # Dependencies
+    └── README.md
+
 ---
 
 ## 📊 Methodology
@@ -83,17 +82,15 @@ World-Development-Indicators-Clustering/
 
 ## 🚀 How to Run
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Navaneethadheeravath19/World-Development-Indicators-Clustering.git
-cd World-Development-Indicators-Clustering
+    # 1. Clone the repository
+    git clone https://github.com/Navaneethadheeravath19/World-Development-Indicators-Clustering.git
+    cd World-Development-Indicators-Clustering
 
-# 2. Install dependencies
-pip install -r requirements.txt
+    # 2. Install dependencies
+    pip install -r requirements.txt
 
-# 3. Run the Jupyter Notebook
-jupyter notebook wdi_clustering_analysis.ipynb
-```
+    # 3. Run the Jupyter Notebook
+    jupyter notebook wdi_clustering_analysis.ipynb
 
 ---
 
@@ -107,10 +104,10 @@ jupyter notebook wdi_clustering_analysis.ipynb
 
 ## 👤 Author
 
-**Navaneethadheeravath**  
-📧 Navaneethadheeravath19@gmail.com.
-🔗 www.linkedin.com/in/navaneetha19.  
-💻 [GitHub Profile](https://github.com/Navaneethadheeravath19)
+**Navaneethadheeravath**
+📧 Navaneethadheeravath19@gmail.com
+🔗 [LinkedIn](http://www.linkedin.com/in/navaneetha19)
+💻 [GitHub](https://github.com/Navaneethadheeravath19)
 
 ---
 
