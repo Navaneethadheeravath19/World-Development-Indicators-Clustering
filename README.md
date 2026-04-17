@@ -33,6 +33,7 @@ This project uses **K-Means Clustering** to analyze and group countries based on
 
 ## 📁 Project Structure
 
+```
 World-Development-Indicators-Clustering/
 │
 ├── wdi_clustering_analysis.ipynb   # Main analysis: EDA, preprocessing, clustering
@@ -42,6 +43,7 @@ World-Development-Indicators-Clustering/
 ├── correlation_heatmap.png         # Feature correlation heatmap
 ├── requirements.txt                # Python dependencies
 └── README.md
+```
 ---
 
 ## 📊 Methodology
