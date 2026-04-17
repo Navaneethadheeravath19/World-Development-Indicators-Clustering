@@ -3,6 +3,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+## 🌐 Live Demo
+👉 [Click here to open the app](https://wdi-clustering.streamlit.app/)
+
 # 🌍 World Development Indicators — Country Clustering
 
 > An unsupervised machine learning project that groups countries by socio-economic development patterns using K-Means Clustering.
