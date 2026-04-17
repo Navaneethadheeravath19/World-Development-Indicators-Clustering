@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 # 🌍 World Development Indicators — Country Clustering
 
 > An unsupervised machine learning project that groups countries by socio-economic development patterns using K-Means Clustering.
